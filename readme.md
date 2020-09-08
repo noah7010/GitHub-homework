@@ -1,6 +1,6 @@
 How do you see the files changed within each commit using GitHub Desktop GUI?
 
-hitory tab next to changes tab on Gui
+hitory tab you click on it.  the it shows files changed
 
 How do you see the contents of what changed within each file for a commit?
 
